@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -21,6 +21,7 @@ const seo = {
 const greeting = {
   title: "Pooja Katpale",
   logo_name: "poojakatpale4588",
+ 
 
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
@@ -157,7 +158,7 @@ const skills = {
 // Education Page
 
 
- competitiveSites = {
+  competitiveSites = {
   competitiveSites: [
     {
       siteName: "HackerRank",
@@ -179,23 +180,7 @@ const skills = {
   ],
 };
 
-const degrees = {
-  degrees: [
-    {
-      title: "Pimpri Chinchwad College of Engineering",
-      subtitle: "Pursuing B.E. in Information Technology ",
-      logo_path: "iiitk_logo.png",
- 
-      duration: "Third yr Student",
-      descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms etc.",
-        "⚡ Apart from this, I have done courses on web Devlopment, Python, Flutter.",
-       
-      ],
-      website_link: "http://www.pccoepune.com/",
-    },
-  ],
-};
+
 
 const certifications = {
   certifications: [
@@ -303,7 +288,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "photo.jpg",
     description:
       "I am available on Twitter, Github and other social media Platforms. I can help with web devlopment,flutter.",
   },
@@ -328,7 +313,7 @@ export {
   socialMediaLinks,
   skills,
   competitiveSites,
-  degrees,
+
   certifications,
   experience,
   projectsHeader,
