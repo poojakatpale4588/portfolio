@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Pooja Katpale's Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "http://poojakatpale.com/",
   },
 };
 
