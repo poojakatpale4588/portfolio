@@ -24,7 +24,7 @@ const greeting = {
  
 
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "Hi! I'm a hard working, honest individual.I am a good timekeeper, always willing to learn new skills.I am well organized and always plan ahead to make sure i manage my time well.",
 
   portfolio_repository: "https://github.com/poojakatpale4588/portfolio",
 };
