@@ -187,7 +187,7 @@ const certifications = {
     {
       title: "Python Specialization Course",
       subtitle: "- University of Michigan",
-      logo_path: "stanford_logo.png",
+      logo_path: "download_logo.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
       alt_name: "University of Michigan",
@@ -196,7 +196,7 @@ const certifications = {
     {
       title: "Data Structure",
       subtitle: "- UC San Diego",
-      logo_path: "deeplearning_ai_logo.png",
+      logo_path: "ussan_logo.png",
       certificate_link:
         "https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
       alt_name: "UC San Diego",
@@ -206,7 +206,7 @@ const certifications = {
     {
       title: "Covid-19 Contact Tracing",
       subtitle: "- Johns Hopkins University",
-      logo_path: "ibm_logo.png",
+      logo_path: "john_logo.png",
       certificate_link:
         "https://coursera.org/share/512dffa75a272349a1ba9f661001fe27",
       alt_name: "Johns Hopkins University",
@@ -215,7 +215,7 @@ const certifications = {
     {
       title: "Blockchain ",
       subtitle: "- IBI",
-      logo_path: "microsoft_logo.png",
+      logo_path: "block_logo.jpg",
       certificate_link:
         "https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
       alt_name: "IBI",
@@ -226,61 +226,61 @@ const certifications = {
 };
 
 // Experience Page
-const experience = {
-  title: "Experience",
-  subtitle: "Volunteership",
-  description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
-  header_image_path: "experience.svg",
-  sections: [
+// const experience = {
+//   title: "Experience",
+//   subtitle: "Volunteership",
+//   description:
+//     "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+//   header_image_path: "experience.svg",
+//   sections: [
     
-    {
-      title: "Volunteerships",
-      experiences: [
-        {
-          title: "PCCOE CSI STUDENT CHAPTER",
-          company: "CSI STUDENT CHAPTER",
-          company_url: "https://about.google/",
-          logo_path: "google_logo.png",
-          duration: "June 2019 - April 2020",
+//     {
+//       title: "Volunteerships",
+//       experiences: [
+//         {
+//           title: "PCCOE CSI STUDENT CHAPTER",
+//           company: "CSI STUDENT CHAPTER",
+//           company_url: "https://about.google/",
+//           logo_path: "google_logo.png",
+//           duration: "June 2019 - April 2020",
           
-          description:
-            "My responsibility was to manage each and every event of the team. And to keep all the documentation of the events",
-          color: "#4285F4",
-        },
-        {
-          title: "Representative Head at PCCOE ACM-W",
-          company: "ACM-W",
-          company_url: "https://www.microsoft.com/",
-          logo_path: "microsoft_logo.png",
-          duration: "Aug 2019 - May 2020",
+//           description:
+//             "My responsibility was to manage each and every event of the team. And to keep all the documentation of the events",
+//           color: "#4285F4",
+//         },
+//         {
+//           title: "Representative Head at PCCOE ACM-W",
+//           company: "ACM-W",
+//           company_url: "https://www.microsoft.com/",
+//           logo_path: "microsoft_logo.png",
+//           duration: "Aug 2019 - May 2020",
           
-          description:
-            "To manage and volunteer every event and to be a part of design and social media team.",
-          color: "#D83B01",
-        },
-        {
-          title: "Event Management Team at PCCOE CodeChef",
-          company: "CODE-CHEF",
-          company_url: "https://www.mozilla.org/",
-          logo_path: "mozilla_logo.png",
-          duration: "Oct 2019 - May 2020",
+//           description:
+//             "To manage and volunteer every event and to be a part of design and social media team.",
+//           color: "#D83B01",
+//         },
+//         {
+//           title: "Event Management Team at PCCOE CodeChef",
+//           company: "CODE-CHEF",
+//           company_url: "https://www.mozilla.org/",
+//           logo_path: "mozilla_logo.png",
+//           duration: "Oct 2019 - May 2020",
         
-          description:
-            "My responsibility for this chapter was to manage each and every event and also create catchy messages and to manage the documentation as well",
-          color: "#000000",
-        },
+//           description:
+//             "My responsibility for this chapter was to manage each and every event and also create catchy messages and to manage the documentation as well",
+//           color: "#000000",
+//         },
 
-      ],
-    },
-  ],
-};
+//       ],
+//     },
+//   ],
+// };
 
 // Projects Page
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools. My best experience is to create fun games and to build responsive and attractive websites.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -302,7 +302,7 @@ const contactPageData = {
   },
   phoneSection: {
     title: "Phone Number",
-    subtitle: "+91 9373755635",
+    subtitle: "+91 9373755xxx",
   },
 };
 
@@ -315,7 +315,7 @@ export {
   competitiveSites,
 
   certifications,
-  experience,
+  
   projectsHeader,
   contactPageData,
 };
